@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "reporun"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reporun": "^1.0.0"
+  }
+}

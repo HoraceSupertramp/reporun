@@ -1,0 +1,29 @@
+vue-dc-comics:
+  prepare:
+    - npm install
+  start:
+    - npm run serve -- --port ${PORT}
+vue-dischi:
+  prepare:
+    - npm install
+  start:
+    - npm run serve -- --port ${PORT}
+vue-boolflix:
+  prepare:
+    - npm install
+  start:
+    - npm run serve -- --port ${PORT}
+proj-html-vuejs:
+  prepare:
+    - npm install
+  start:
+    - npm run serve -- --port ${PORT}
+php-badwords:
+  start:
+    - open-cli index.php
+php-google-faq:
+  start:
+    - open-cli index.php
+php-ajax-dischi:
+  start:
+    - open-cli index.php
